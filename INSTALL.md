@@ -1,0 +1,3 @@
+Die Nvidia Corporation ist einer der größten Entwickler von Grafikprozessoren und Chipsätzen für Personal Computer und Spielkonsolen. 
+Der Hauptsitz liegt in Santa Clara, Kalifornien. Die NVIDIA Corporation besitzt keine eigenen Fertigungsstätten und arbeitet somit nach dem Fabless-Prinzip.
+In den Forbes Global 2000 der weltweit größten Unternehmen belegt Nvidia Platz 572 (Stand: Geschäftsjahr 2017). Das Unternehmen 
